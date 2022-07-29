@@ -18,7 +18,7 @@ streamlit.text("The fruit load list contains")
 streamlit.header("The fruit load list contains:")
 streamlit.dataframe(my_data_rows)
 
-streamlit.stop()
+#streamlit.stop()
 
 streamlit.title('My parents new healthy dinner')
 streamlit.header('Breakfast Menu')
